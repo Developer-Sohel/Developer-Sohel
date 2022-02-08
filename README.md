@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋, Md Sohel Khan
+#### I am professional web developer 
+![I am professional web developer ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**Developer-Sohel/Developer-Sohel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am sohel i am a professional web developer & digital marketer, I am very very expert in WordPress development, I am successfully a lot of projects complete.
 
-Here are some ideas to get you started:
+Skills:  JS / REACT / JS / HTML / CSS/ WordPress /  Android App Development / Digital Marketing 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Online Marketplace  
+- 🌱 I’m currently learning Java Script / PHP / Python 
+- 👯 I’m looking to collaborate on github 
+
+
+
+
